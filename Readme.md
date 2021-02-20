@@ -1,5 +1,5 @@
 Стэк технологий: JavaScript , Framework: React .
-# Первый проект на React по курсу "Полный курс по Javascript + React"
+# Первый проект по курсу "Полный курс по Javascript + React"
 ## Автор курса: Иван Петриченко
 
 ![alt-текст](markdown/project.gif "Проект")
