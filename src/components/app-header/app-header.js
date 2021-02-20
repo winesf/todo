@@ -22,7 +22,7 @@ const Header = styled.div`
 const AppHeader = ({liked, allPosts}) => {
   return(
     <Header as='a' colored>
-      <h1>React Test</h1>
+      <h1>Список заданий</h1>
       <h2>{allPosts} записей , из них понравилось {liked}</h2>
     </Header>
   )
